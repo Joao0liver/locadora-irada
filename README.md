@@ -90,3 +90,15 @@ As classes presentes em `classes/` representam as principais entidades utilizada
 ## 📚 Contexto acadêmico
 
 Projeto desenvolvido como atividade acadêmica de laboratório, com foco na adaptação e prática de conceitos de programação utilizando a linguagem **Dart** para a disciplina de Desenvolvimento Mobile.
+
+## 👨‍💻 Autor
+
+**João Augusto de Oliveira Pereira**
+
+Estudante de **Sistemas de Informação**.
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins **acadêmicos e educacionais**.
+
+Sinta-se à vontade para consultar o código e utilizá-lo como referência para estudos.
